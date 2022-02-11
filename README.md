@@ -32,5 +32,4 @@
   <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivandu1410&show_icons=true&theme=radical&layout=compact" alt="shivandu1410" /></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.aph1><img src=https://visme.co/blog/wp-content/uploads/2019/09/interactive-presentation-header-wide.gif?raw=true width="100%" height="100%" /></h1>p/api?username=ashishpal18&show_icons=true&theme=radical" alt="ashishpal18" /></p><hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishpal18&show_icons=true&theme=radical"" alt="ashishpal18" /></p>
