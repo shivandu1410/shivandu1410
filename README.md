@@ -1,4 +1,4 @@
-<h1><img src=https://miro.medium.com/max/1400/1*9m-WDdL_ji01bGbjEnutEw.gif?raw=true width="100%" height="80%" /></h1>
+<h1><img src=https://miro.medium.com/max/1400/1*9m-WDdL_ji01bGbjEnutEw.gif?raw=true width="100%" height="50%" /></h1>
 <h1 align="center">Hi 👋, I'm Babu Kunwar Durgendra Shivandu</h1>
 <h3 align="center">A Passionate Active Learner... :)</h3>
 
